@@ -4,3 +4,6 @@
 [submodule "MultivariateRegression"]
 	path = MultivariateRegression
 	url = https://github.com/WasikAhmed/MultivariateRegression.git
+[submodule "ML_Internship_Task_01-9-23"]
+	path = ML_Internship_Task_01-9-23
+	url = https://github.com/WasikAhmed/ML_Internship_Task_01-9-23.git
