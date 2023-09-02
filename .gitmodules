@@ -1,3 +1,6 @@
 [submodule "LinearRegressionSingleVariable"]
 	path = LinearRegressionSingleVariable
 	url = https://github.com/WasikAhmed/LinearRegressionSingleVariable.git
+[submodule "MultivariateRegression"]
+	path = MultivariateRegression
+	url = https://github.com/WasikAhmed/MultivariateRegression.git
