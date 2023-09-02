@@ -1,0 +1,3 @@
+[submodule "LinearRegressionSingleVariable"]
+	path = LinearRegressionSingleVariable
+	url = https://github.com/WasikAhmed/LinearRegressionSingleVariable.git
