@@ -7,3 +7,6 @@
 [submodule "ML_Internship_Task_01-9-23"]
 	path = ML_Internship_Task_01-9-23
 	url = https://github.com/WasikAhmed/ML_Internship_Task_01-9-23.git
+[submodule "DataVisualization-Matplotlib"]
+	path = DataVisualization-Matplotlib
+	url = git@github.com:WasikAhmed/DataVisualization-Matplotlib.git
