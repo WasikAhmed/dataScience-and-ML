@@ -1,3 +1,6 @@
+# macOS
+.ds_store
+
 ### JupyterNotebooks template
 # gitignore template for Jupyter Notebooks
 # website: http://jupyter.org/
